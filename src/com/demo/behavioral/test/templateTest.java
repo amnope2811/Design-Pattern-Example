@@ -7,7 +7,7 @@ import com.demo.behavioral.template.GasOven;
 import com.demo.behavioral.template.MicrowaveOven;
 import com.demo.behavioral.template.OvenInterface;
 
-public class templateTest {
+public class TemplateTest {
 	OvenInterface oven;
 
 	@Test

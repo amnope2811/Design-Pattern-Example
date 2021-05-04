@@ -7,7 +7,7 @@ import com.demo.behavioral.visitor.Participant;
 import com.demo.behavioral.visitor.checkPoint.CheckPoint;
 import com.demo.behavioral.visitor.checkPoint.FinishLine;
 
-public class visitorTest {
+public class VisitorTest {
 
 	@Test
 	public void marathon() {
