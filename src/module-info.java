@@ -1,0 +1,3 @@
+module DesignPatternDemo {
+	requires junit;
+}
