@@ -23,5 +23,4 @@ public abstract class CostumeFactory implements FactoryInterface {
 		System.out.println("Wrap");
 	}
 	
-//	protected abstract void createProduct();
 }
